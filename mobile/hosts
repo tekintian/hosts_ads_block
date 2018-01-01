@@ -1,6 +1,6 @@
 #Host For Mobile ads block
-#version=201712121829
-#Total:37722
+#version=201801012059
+#Total:37731
 #url=https://github.com/tekintian/hosts_ads_block/mobile/hosts.txt
 #common
 127.0.0.1 localhost
@@ -78,6 +78,15 @@
 127.0.0.1 rd.wan.360.cn
 127.0.0.1 s.union.360.cn
 127.0.0.1 click.stat.hao.360.cn
+127.0.0.1 i.haloapps.com
+127.0.0.1 gc.mobilem.360.cn
+127.0.0.1 statistics.mobile.360.cn
+127.0.0.1 upgrade.mobile.360.cn
+127.0.0.1 show.m.mediav.com
+127.0.0.1 openbox.mobilem.360.cn
+127.0.0.1 api.np.mobilem.360.cn
+127.0.0.1 dl.mobile.360.cn
+127.0.0.1 d.holalauncher.com
 #360-mob
 127.0.0.1 act.commercial.shouji.360.cn
 127.0.0.1 api.shuaji.360.cn
