@@ -3,24 +3,6 @@
 #for code debug
 127.0.0.1 localhost
 127.0.0.1 test
-127.0.0.1 test.bjesc.com
-127.0.0.1 tekin
-127.0.0.1 ynzhubao
-127.0.0.1 ynzb
-127.0.0.1 cxshop
-127.0.0.1 test.dev
-127.0.0.1 jdb.dev
-127.0.0.1 site.dev
-127.0.0.1 yixiuku.dev
-127.0.0.1 yxk.dev
-127.0.0.1 bjyixiu.dev
-127.0.0.1 m.bjyixiu.dev
-127.0.0.1 yxkdev.dev
-127.0.0.1 mariadb103
-127.0.0.1 mariadb102
-127.0.0.1 mysql57
-192.168.99.100 eme2.dev
-192.168.99.100 eme.dev
 
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net 
 0.0.0.0 fe2.update.microsoft.com.akadns.net 
@@ -25795,7 +25777,6 @@
 0.0.0.0 122907224924.c.mystat-in.net
 0.0.0.0 123.duba.net
 0.0.0.0 123.fluxads.com
-0.0.0.0 123.sogou.com
 0.0.0.0 1239.9014.302br.net
 0.0.0.0 123banners.com
 0.0.0.0 123count.com
