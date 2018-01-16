@@ -3,24 +3,6 @@
 #for code debug
 127.0.0.1 localhost
 127.0.0.1 test
-127.0.0.1 test.bjesc.com
-127.0.0.1 tekin
-127.0.0.1 ynzhubao
-127.0.0.1 ynzb
-127.0.0.1 cxshop
-127.0.0.1 test.dev
-127.0.0.1 jdb.dev
-127.0.0.1 site.dev
-127.0.0.1 yixiuku.dev
-127.0.0.1 yxk.dev
-127.0.0.1 bjyixiu.dev
-127.0.0.1 m.bjyixiu.dev
-127.0.0.1 yxkdev.dev
-127.0.0.1 mariadb103
-127.0.0.1 mariadb102
-127.0.0.1 mysql57
-192.168.99.100 eme2.dev
-192.168.99.100 eme.dev
 
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net 
 0.0.0.0 fe2.update.microsoft.com.akadns.net 
@@ -31162,7 +31144,6 @@
 0.0.0.0 ai.hitbox.com
 0.0.0.0 ai.net
 0.0.0.0 ai.pricegrabber.com
-0.0.0.0 ai.taobao.com
 0.0.0.0 aid.video.qq.com
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 ai-gb.marketgid.com
@@ -32250,7 +32231,6 @@
 0.0.0.0 atdmt.com.55788.9391.302br.net
 0.0.0.0 atdmt.com.72669.9596.302br.net
 0.0.0.0 atemda.com
-0.0.0.0 athena.simba.taobao.com
 0.0.0.0 athena.wan.sogou.com
 0.0.0.0 athena-ads.wikia.com
 0.0.0.0 atinternet.com
@@ -35334,7 +35314,6 @@
 0.0.0.0 click.mmosite.com
 0.0.0.0 click.monstracking.com
 0.0.0.0 click.mrrage.com
-0.0.0.0 click.mz.simba.taobao.com
 0.0.0.0 click.netpondcash.com
 0.0.0.0 click.news2.v3.email-publisher.com
 0.0.0.0 click.oxcash.com
@@ -35352,14 +35331,12 @@
 0.0.0.0 click.sellmeyourtraffic.com
 0.0.0.0 click.sexmoney.com
 0.0.0.0 click.silvercash.com
-0.0.0.0 click.simba.taobao.com
 0.0.0.0 click.solocpm.com
 0.0.0.0 click.t3nlink.com
 0.0.0.0 click.tanx.com
 0.0.0.0 click.tianyaui.com
 0.0.0.0 click.top10sites.com
 0.0.0.0 click.topica.com
-0.0.0.0 click.tz.simba.taobao.com
 0.0.0.0 click.uctrac.com
 0.0.0.0 click.v1.de.euserv.gam.adaos-ads.net
 0.0.0.0 click.wrating.com
@@ -36247,8 +36224,6 @@
 0.0.0.0 count.prx.org
 0.0.0.0 count.qiannao.com
 0.0.0.0 count.rubylane.com
-0.0.0.0 count.taobao.com
-0.0.0.0 count.tbcdn.cn
 0.0.0.0 count.timedg.com
 0.0.0.0 count.video.sina.com.cn
 0.0.0.0 count.vivistats.com
@@ -38311,7 +38286,6 @@
 0.0.0.0 erotic.masterstats.com
 0.0.0.0 err.000webhost.com
 0.0.0.0 err.spring-tns.net
-0.0.0.0 err.taobao.com
 0.0.0.0 errdoc.gabia.net
 0.0.0.0 erreport.tudou.com
 0.0.0.0 error.000webhost.com
@@ -38590,7 +38564,6 @@
 0.0.0.0 f.70e.com
 0.0.0.0 f.about.com
 0.0.0.0 f.aduwant.com
-0.0.0.0 f.ai.taobao.com
 0.0.0.0 f.ajhdf.com
 0.0.0.0 f.blogads.com
 0.0.0.0 f.domdex.com
@@ -39285,7 +39258,6 @@
 0.0.0.0 g.bitauto.com
 0.0.0.0 g.blogads.com
 0.0.0.0 g.brothersoft.com
-0.0.0.0 g.click.taobao.com
 0.0.0.0 g.cn.miaozhen.com
 0.0.0.0 g.cnxad.com
 0.0.0.0 g.d.yoyi.tv
@@ -41500,7 +41472,6 @@
 0.0.0.0 j.sahcdn.com
 0.0.0.0 j.theadsnet.com
 0.0.0.0 j.union.ijinshan.com
-0.0.0.0 j.uz.taobao.com
 0.0.0.0 j.wit.qq.com
 0.0.0.0 j.zeroredirect.com
 0.0.0.0 j.zeroredirect1.com
@@ -41533,7 +41504,6 @@
 0.0.0.0 jbonlinemedia-electronics.t.domdex.com
 0.0.0.0 jbugk.com
 0.0.0.0 jc.revolvermaps.com
-0.0.0.0 jc.wangwang.taobao.com
 0.0.0.0 jcarter.spinbox.net
 0.0.0.0 jcmailer.justcode.biz
 0.0.0.0 jcnm.game3737.com
@@ -42778,7 +42748,6 @@
 0.0.0.0 m.sancdn.net
 0.0.0.0 m.servebom.com
 0.0.0.0 m.shopathome.com
-0.0.0.0 m.simba.taobao.com
 0.0.0.0 m.souluo.net
 0.0.0.0 m.teamsugar.com
 0.0.0.0 m.trb.com
@@ -43088,7 +43057,6 @@
 0.0.0.0 mci12.clicksor.com
 0.0.0.0 mcityadslink.com
 0.0.0.0 mcl.girlsgothic.com
-0.0.0.0 mclick.simba.taobao.com
 0.0.0.0 mcmoby.go2cloud.org
 0.0.0.0 mcpatrack.tv
 0.0.0.0 mcs.delvenetworks.com
@@ -45860,7 +45828,6 @@
 0.0.0.0 pcookie.cnzz.com
 0.0.0.0 pcookie.cnzz.net
 0.0.0.0 pcookie.tanx.com
-0.0.0.0 pcookie.taobao.com
 0.0.0.0 pcper.us.intellitxt.com
 0.0.0.0 pcpop-intel2.buzzopt.com
 0.0.0.0 pcpro.uk.intellitxt.com
@@ -46041,7 +46008,6 @@
 0.0.0.0 pimg.taobao.linezing.com
 0.0.0.0 pimprig.us.intellitxt.com
 0.0.0.0 pimproll.com
-0.0.0.0 pindao.huoban.taobao.com
 0.0.0.0 ping.aclst.com
 0.0.0.0 ping.answerbook.com
 0.0.0.0 ping.apptornado.com
@@ -46892,7 +46858,6 @@
 0.0.0.0 qiao.baidu.com
 0.0.0.0 qidian.adsame.com
 0.0.0.0 qihoo.wrating.com
-0.0.0.0 qingbaozhan.uz.taobao.com
 0.0.0.0 qj.us.intellitxt.com
 0.0.0.0 qjex.net
 0.0.0.0 qjtest.cnzz.com
@@ -46973,7 +46938,6 @@
 0.0.0.0 r.letsw.com
 0.0.0.0 r.lm55.com
 0.0.0.0 r.looksmart.com
-0.0.0.0 r.m.taobao.com
 0.0.0.0 r.mail.163.com
 0.0.0.0 r.migch.com
 0.0.0.0 r.mobpartner.mobi
@@ -47144,9 +47108,7 @@
 0.0.0.0 rdstat.tanx.com
 0.0.0.0 rdt.screensaver.com
 0.0.0.0 re.adroll.com
-0.0.0.0 re.m.taobao.com
 0.0.0.0 re.revolvermaps.com
-0.0.0.0 re.taobao.com
 0.0.0.0 re.try9.com
 0.0.0.0 reachjunction.com
 0.0.0.0 readersdigest.tt.omtrdc.net
@@ -47505,8 +47467,6 @@
 0.0.0.0 rivasearch.com
 0.0.0.0 rivasearchpage.com
 0.0.0.0 riverdeep.112.2o7.net
-0.0.0.0 rj.baidu.com
-0.0.0.0 rj.m.taobao.com
 0.0.0.0 rk.revolvermaps.com
 0.0.0.0 rkaffiliates.go2cloud.org
 0.0.0.0 rkcache.brandreachsys.com
@@ -48114,47 +48074,11 @@
 0.0.0.0 s69.cnzz.com
 0.0.0.0 s7.adaces.ero-advertising.com
 0.0.0.0 s7.addthis.com
-0.0.0.0 s7.cnzz.com
 0.0.0.0 s7.shinystat.com
-0.0.0.0 s70.cnzz.com
-0.0.0.0 s71.cnzz.com
-0.0.0.0 s72.cnzz.com
-0.0.0.0 s73.cnzz.com
-0.0.0.0 s74.cnzz.com
-0.0.0.0 s75.cnzz.com
-0.0.0.0 s76.cnzz.com
-0.0.0.0 s77.cnzz.com
-0.0.0.0 s78.cnzz.com
-0.0.0.0 s79.cnzz.com
-0.0.0.0 s8.cnzz.com
-0.0.0.0 s8.etao.com
-0.0.0.0 s8.m.taobao.com
 0.0.0.0 s8.shinystat.com
-0.0.0.0 s8.taobao.com
-0.0.0.0 s80.cnzz.com
-0.0.0.0 s81.cnzz.com
-0.0.0.0 s82.cnzz.com
-0.0.0.0 s83.cnzz.com
-0.0.0.0 s84.cnzz.com
-0.0.0.0 s85.cnzz.com
-0.0.0.0 s86.cnzz.com
-0.0.0.0 s87.cnzz.com
-0.0.0.0 s88.cnzz.com
-0.0.0.0 s89.cnzz.com
 0.0.0.0 s9.addthis.com
-0.0.0.0 s9.cnzz.com
 0.0.0.0 s9.shinystat.com
-0.0.0.0 s90.cnzz.com
-0.0.0.0 s91.cnzz.com
-0.0.0.0 s92.cnzz.com
-0.0.0.0 s93.cnzz.com
-0.0.0.0 s94.cnzz.com
-0.0.0.0 s95.cnzz.com
 0.0.0.0 s95.research.de.com
-0.0.0.0 s96.cnzz.com
-0.0.0.0 s97.cnzz.com
-0.0.0.0 s98.cnzz.com
-0.0.0.0 s99.cnzz.com
 0.0.0.0 sa.aol.com.122.2o7.net
 0.0.0.0 sa.bbc.com
 0.0.0.0 sa.entireweb.com
@@ -48480,7 +48404,6 @@
 0.0.0.0 search.yousee.com
 0.0.0.0 search2007.info
 0.0.0.0 search34.info.com
-0.0.0.0 search8.taobao.com
 0.0.0.0 searchacts.com
 0.0.0.0 searchanyway.com
 0.0.0.0 searchassistant.iwon.com
@@ -48838,7 +48761,6 @@
 0.0.0.0 sheknows.us.intellitxt.com
 0.0.0.0 shellad.adsame.com
 0.0.0.0 shfr.hernando.com
-0.0.0.0 shi.taobao.com
 0.0.0.0 shim.btrll.com
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.lvlar.com
@@ -48865,7 +48787,6 @@
 0.0.0.0 show.m.mediav.com
 0.0.0.0 show.mediav.com
 0.0.0.0 show.onenetworkdirect.net
-0.0.0.0 show.re.taobao.com
 0.0.0.0 show.wwbads.com
 0.0.0.0 show.xiazai16.com
 0.0.0.0 show.xq12.com
@@ -48903,7 +48824,6 @@
 0.0.0.0 siliconera.us.intellitxt.com
 0.0.0.0 silveragesoftware.com
 0.0.0.0 sim.thetrafficstat.net
-0.0.0.0 simba.m.taobao.com
 0.0.0.0 simg.sinajs.cn
 0.0.0.0 simg.zedo.com
 0.0.0.0 simonsearch.com
@@ -49518,7 +49438,6 @@
 0.0.0.0 stat.pchome.net
 0.0.0.0 stat.ppstream.com
 0.0.0.0 stat.punchbox.org
-0.0.0.0 stat.simba.taobao.com
 0.0.0.0 stat.sittiad.com
 0.0.0.0 stat.sp.kingsoft.com
 0.0.0.0 stat.su
@@ -50713,7 +50632,6 @@
 0.0.0.0 teletypos.nuggad.net
 0.0.0.0 telkku.spring-tns.net
 0.0.0.0 telstra.imrworldwide.com
-0.0.0.0 temai.taobao.com
 0.0.0.0 temp.adzerver.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 template.aebn.net
@@ -50787,7 +50705,6 @@
 0.0.0.0 textads.opera.com
 0.0.0.0 textads.sexmoney.com
 0.0.0.0 textadvertising.adclickmedia.com
-0.0.0.0 textlink.simba.taobao.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 text-link-ads.ientry.com
 0.0.0.0 textlinks.com
@@ -51016,7 +50933,6 @@
 0.0.0.0 tlvmedia.com
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tmarket.tripod.com
-0.0.0.0 tmatch.simba.taobao.com
 0.0.0.0 tmgdigital.go2cloud.org
 0.0.0.0 tmobile-us.inq.com
 0.0.0.0 tmp.dt00.net
@@ -51029,7 +50945,6 @@
 0.0.0.0 tmz.us.intellitxt.com
 0.0.0.0 tmz.vo.llnwd.net
 0.0.0.0 tnjcars.go2cloud.org
-0.0.0.0 tns.simba.taobao.com
 0.0.0.0 tns-cs.net
 0.0.0.0 tnttv.112.2o7.net
 0.0.0.0 to.mtxpj.com
@@ -51943,7 +51858,6 @@
 0.0.0.0 tugads.go2cloud.org
 0.0.0.0 tui.cnzz.net
 0.0.0.0 tui.intelli-direct.com
-0.0.0.0 tui.taobao.com
 0.0.0.0 tuiguang.meitu.com
 0.0.0.0 tuijian.baidu.com
 0.0.0.0 tumblrprobes.cedexis.com
@@ -52734,7 +52648,6 @@
 0.0.0.0 w.homes.yahoo.net
 0.0.0.0 w.hypercomments.com
 0.0.0.0 w.inmobi.com
-0.0.0.0 w.m.taobao.com
 0.0.0.0 w.mlv-cdn.com
 0.0.0.0 w.p.mybuys.com
 0.0.0.0 w.plugrush.com
@@ -56593,8 +56506,7 @@
 0.0.0.0 zh.zeroredirect1.com
 0.0.0.0 zh28.adsame.com
 0.0.0.0 zhanzhang.net
-0.0.0.0 zhcn.admob.com
-0.0.0.0 zhentan.uz.taobao.com
+0.0.0.0 zhcn.admob.coM
 0.0.0.0 zhidian3g.cn
 0.0.0.0 zhirok.com
 0.0.0.0 zhuamob.com
