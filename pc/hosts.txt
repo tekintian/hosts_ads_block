@@ -1,9 +1,8 @@
 #Ads Block for pc
-
 #for code debug
 127.0.0.1 localhost
 127.0.0.1 test
-
+#For Ads site
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net 
 0.0.0.0 fe2.update.microsoft.com.akadns.net 
 0.0.0.0 s0.2mdn.net 
@@ -73,9 +72,7 @@
 0.0.0.0 v10.vortex-win.data.microsoft.com 
 0.0.0.0 win10.ipv6.microsoft.com 
 0.0.0.0 ca.telemetry.microsoft.com 
-0.0.0.0 i1.services.social.microsoft.com.nsatc.net 
-
-0.0.0.0 wa.kuwo.cn
+0.0.0.0 i1.services.social.microsoft.com.nsatc.net 0.0.0.0 wa.kuwo.cn
 0.0.0.0 atm.youku.com
 0.0.0.0 vid.atm.youku.com
 0.0.0.0 Fvid.atm.youku.com
@@ -91,7 +88,6 @@
 0.0.0.0 stat.youku.com
 0.0.0.0 static.lstat.youku.com
 0.0.0.0 valc.atm.youku.com
-
 #For Ifeng
 0.0.0.0 flvad.ifeng.com
 0.0.0.0 sc.ifeng.com 
@@ -8833,10 +8829,7 @@
 0.0.0.0 issdy.com
 0.0.0.0 item.taobao.com.oowiieoir.com
 0.0.0.0 item.taobao.com.qrenjk.tk
-0.0.0.0 item.taobao.com.weiioiu.com
-0.0.0.0 item.taobao.com-eu.us
-0.0.0.0 item.taobao.com-hhm.mu.la
-0.0.0.0 item.taobao.com-hosting.co.cc
+0.0.0.0 item.taobao.com.weiioiu.comeu.ushhm.mu.lahosting.co.cc
 0.0.0.0 item.taobao.coml.feikch.cn
 0.0.0.0 item.taobao.mecao-s.tk
 0.0.0.0 item.taobao.seiaero.co.cc
@@ -8846,7 +8839,6 @@
 0.0.0.0 itgm-taobao.com
 0.0.0.0 itisagooddaytodie.ru
 0.0.0.0 itlaw.com.cn
-0.0.0.0 itme.taobao.com-iiy.info
 0.0.0.0 itme.taobao.free.web.minhaoweb.cn
 0.0.0.0 itorkadflione.com
 0.0.0.0 itromet.com
@@ -26814,9 +26806,7 @@
 0.0.0.0 acookie.aliexpress.com
 0.0.0.0 acookie.alimama.com
 0.0.0.0 acookie.linezing.com
-0.0.0.0 acookie.tanx.com
-0.0.0.0 acookie.taobao.com
-0.0.0.0 acookie.ztcadx.com
+0.0.0.0 acookie.tanx.com0.0.0.0 acookie.ztcadx.com
 0.0.0.0 acotrk.com
 0.0.0.0 acount.alley.ws
 0.0.0.0 acpmagazines.112.2o7.net
@@ -27821,9 +27811,7 @@
 0.0.0.0 adapt.tv
 0.0.0.0 adaptv.pixel.invitemedia.com
 0.0.0.0 adaroo.go2cloud.org
-0.0.0.0 adart.go2cloud.org
-0.0.0.0 adash.m.taobao.com
-0.0.0.0 adattract.go2cloud.org
+0.0.0.0 adart.go2cloud.org0.0.0.0 adattract.go2cloud.org
 0.0.0.0 adb.fling.com
 0.0.0.0 ad-balancer.net
 0.0.0.0 adbank.go2cloud.org
@@ -28212,9 +28200,7 @@
 0.0.0.0 admin.performancerevenues.com
 0.0.0.0 admin.rts.doublepimp.com
 0.0.0.0 admin.rts.phn.doublepimp.com
-0.0.0.0 admin.touclick.com
-0.0.0.0 admin.uz.taobao.com
-0.0.0.0 admin.vserv.mobi
+0.0.0.0 admin.touclick.com0.0.0.0 admin.vserv.mobi
 0.0.0.0 admin.wooboo.com.cn
 0.0.0.0 admin1.testandtarget.omniture.com
 0.0.0.0 admin10.testandtarget.omniture.com
@@ -36893,9 +36879,7 @@
 0.0.0.0 dailyslut.net
 0.0.0.0 dailystab.us.intellitxt.com
 0.0.0.0 dailytech.us.intellitxt.com
-0.0.0.0 daily-traffic.com
-0.0.0.0 dailyupdate.wangwang.taobao.com
-0.0.0.0 dailyvideo.securejoin.com
+0.0.0.0 daily-traffic.com0.0.0.0 dailyvideo.securejoin.com
 0.0.0.0 daima.cnzz.com
 0.0.0.0 daimlerag.122.2o7.net
 0.0.0.0 daimlerag.d2.sc.omtrdc.net
@@ -38875,9 +38859,7 @@
 0.0.0.0 fileloadr.com
 0.0.0.0 files.adspdbl.com
 0.0.0.0 files.bannersnack.com
-0.0.0.0 files.chartboost.com
-0.0.0.0 files.dailyupdate.wangwang.taobao.com
-0.0.0.0 files.gas-split.com
+0.0.0.0 files.chartboost.com0.0.0.0 files.gas-split.com
 0.0.0.0 files.tailsweep.com
 0.0.0.0 files2.sogou.com
 0.0.0.0 fileserver.glam.com
@@ -42352,9 +42334,7 @@
 0.0.0.0 log.itworld.com
 0.0.0.0 log.kukuplay.com
 0.0.0.0 log.kuwo.cn
-0.0.0.0 log.liverail.com
-0.0.0.0 log.m.taobao.com
-0.0.0.0 log.mm.vip.cnz.alimama.com
+0.0.0.0 log.liverail.com0.0.0.0 log.mm.vip.cnz.alimama.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.netgeography.net
 0.0.0.0 log.newsvine.com
@@ -52317,7 +52297,6 @@
 0.0.0.0 vap2iad3.lijit.com
 0.0.0.0 vaporprofits.go2cloud.org
 0.0.0.0 varsityads.directtrack.com
-0.0.0.0 vasd.fun.tv
 0.0.0.0 vast.bp3854536.btrll.com
 0.0.0.0 vast.bp3855098.btrll.com
 0.0.0.0 vast.bp3855099.btrll.com
