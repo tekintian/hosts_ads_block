@@ -16,7 +16,7 @@
 -手机版：
 [https://raw.githubusercontent.com/tekintian/hosts_ads_block/master/mobile/hosts](https://raw.githubusercontent.com/tekintian/hosts_ads_block/master/mobile/hosts)
 
-[https://github.com/tekintian/hosts_ads_block/tarball/master](点此直接下载 Direct Download master branch of this project)
+[https://github.com/tekintian/hosts_ads_block/tarball/master](https://github.com/tekintian/hosts_ads_block/tarball/master)
 
 # 文本处理工具
 tools目录中是网上收集的文本去重工具，可自由选择使用那个
