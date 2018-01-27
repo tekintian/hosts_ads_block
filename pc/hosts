@@ -3,7 +3,66 @@
 127.0.0.1 localhost
 127.0.0.1 test
 
+#for Crack soft
+127.0.0.1 account.jetbrains.com
+#acdsee
+127.0.0.1 acdid.acdsystems.com
+#acronis
+127.0.0.1 activation.acronis.com
+#adobe
+127.0.0.1 activate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 na2m-pr.licenses.adobe.com
+#alcohol
+127.0.0.1 serial.alcohol-soft.com
+127.0.0.1 trial.alcohol-soft.com
+#ashampoo
+127.0.0.1 licenses.ashampoo.com
+#cuteftp
+127.0.0.1 dbregistration.cuteftp.com
+#cyberlink
+127.0.0.1 activation.cyberlink.com
+127.0.0.1 cap.cyberlink.com
+#easeus data recovery
+127.0.0.1 activation.easeus.com
+127.0.0.1 track.easeus.com
+#faronicslabs-deepfreeze
+127.0.0.1 upd.faronicslabs.com
+#lumion3d
+127.0.0.1 backup.lumion3d.com
+127.0.0.1 backup.lumion3d.net
+127.0.0.1 license.lumion3d.com
+127.0.0.1 license.lumion3d.net
+#macdrive
+127.0.0.1 act2.mediafour.com
+#nikon-imaging
+127.0.0.1 sams.nikonimaging.com
+#processlasso
+127.0.0.1 www.bitsumactivationserver.com
+#malwarebytes
+127.0.0.1 keystone.mwbsys.com
+#tableau-desktop
+127.0.0.1 licensing.tableausoftware.com
+#totalfinder
+127.0.0.1 binaryage-leechgate.herokuapp.com
+127.0.0.1 updates-s3.binaryage.com
+#wondershare.com
+127.0.0.1 cbs.wondershare.com
+127.0.0.1 macplatform.wondershare.com
+127.0.0.1 platform.wondershare.com
+#163-news
+127.0.0.1 e-p4p.163.com
+127.0.0.1 nex.163.com
+#for locoy
+127.0.0.1 log.locoy.com
+127.0.0.1 61.191.55.91
+
 #For Ads site
+
 #For QQ 
 127.0.0.1 popad.qq.com
 127.0.0.1 3gsoftfile.tc.qq.com
@@ -86,61 +145,6 @@
 127.0.0.1 sc.ifeng.com 
 127.0.0.1 bc.ifeng.com 
 127.0.0.1 mfp.deliver.ifeng.com
-#acdsee
-127.0.0.1 acdid.acdsystems.com
-#acronis
-127.0.0.1 activation.acronis.com
-#adobe
-127.0.0.1 activate.adobe.com
-127.0.0.1 ereg.adobe.com
-127.0.0.1 hlrcv.stage.adobe.com
-127.0.0.1 lm.licenses.adobe.com
-127.0.0.1 lmlicenses.wip4.adobe.com
-127.0.0.1 na1r.services.adobe.com
-127.0.0.1 na2m-pr.licenses.adobe.com
-#alcohol
-127.0.0.1 serial.alcohol-soft.com
-127.0.0.1 trial.alcohol-soft.com
-#ashampoo
-127.0.0.1 licenses.ashampoo.com
-#cuteftp
-127.0.0.1 dbregistration.cuteftp.com
-#cyberlink
-127.0.0.1 activation.cyberlink.com
-127.0.0.1 cap.cyberlink.com
-#easeus data recovery
-127.0.0.1 activation.easeus.com
-127.0.0.1 track.easeus.com
-#faronicslabs-deepfreeze
-127.0.0.1 upd.faronicslabs.com
-#lumion3d
-127.0.0.1 backup.lumion3d.com
-127.0.0.1 backup.lumion3d.net
-127.0.0.1 license.lumion3d.com
-127.0.0.1 license.lumion3d.net
-#macdrive
-127.0.0.1 act2.mediafour.com
-#nikon-imaging
-127.0.0.1 sams.nikonimaging.com
-#processlasso
-127.0.0.1 www.bitsumactivationserver.com
-#malwarebytes
-127.0.0.1 keystone.mwbsys.com
-#tableau-desktop
-127.0.0.1 licensing.tableausoftware.com
-#totalfinder
-127.0.0.1 binaryage-leechgate.herokuapp.com
-127.0.0.1 updates-s3.binaryage.com
-#wondershare.com
-127.0.0.1 cbs.wondershare.com
-127.0.0.1 macplatform.wondershare.com
-127.0.0.1 platform.wondershare.com
-#163-news
-127.0.0.1 e-p4p.163.com
-127.0.0.1 nex.163.com
-#for locoy
-127.0.0.1 log.locoy.com
-127.0.0.1 61.191.55.91
 #youdao
 127.0.0.1 gorgon.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
