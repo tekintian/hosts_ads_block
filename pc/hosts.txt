@@ -2,6 +2,10 @@
 #for code debug
 127.0.0.1 localhost
 127.0.0.1 test
+127.0.0.1 tools.dd
+127.0.0.1 yxk.dd
+127.0.0.1 m.yxk.dd
+127.0.0.1 jdb.dd
 
 #for Crack soft
 127.0.0.1 account.jetbrains.com
@@ -91,11 +95,6 @@
 127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 cp.discuz.qq.com
 127.0.0.1 crash.browser.qq.com
-127.0.0.1 dl_dir2.qq.com
-127.0.0.1 dldir2.qq.com
-127.0.0.1 dldir3.qq.com
-127.0.0.1 dldir5.qq.com
-127.0.0.1 dlied6.qq.com
 127.0.0.1 dmtrack.buy.qq.com
 127.0.0.1 dp3.qq.com
 127.0.0.1 etg.qq.com
@@ -39264,7 +39263,6 @@
 127.0.0.1 g.kuwo.cn
 127.0.0.1 g.mbm.cn.miaozhen.com
 127.0.0.1 g.miaozhen.com
-127.0.0.1 g.msn.com
 127.0.0.1 g.online.cq.cn
 127.0.0.1 g.p.mybuys.com
 127.0.0.1 g.perload.maxthon.com
