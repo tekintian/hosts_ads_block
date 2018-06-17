@@ -2155,9 +2155,6 @@
 127.0.0.1 mimg.126.net
 127.0.0.1 news.push.126.net
 127.0.0.1 m.analytics.126.net
-127.0.0.1 wanproxy.127.net
-127.0.0.1 wangroup.127.net
-127.0.0.1 haitaoad.nosdn.127.net
 127.0.0.1 gad.netease.com
 127.0.0.1 mr.da.netease.com
 127.0.0.1 pr.da.netease.com
