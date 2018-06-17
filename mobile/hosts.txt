@@ -2422,7 +2422,6 @@
 127.0.0.1 aty.tv.sohu.com
 127.0.0.1 atyt.tv.sohu.com
 127.0.0.1 pv.sohu.com
-127.0.0.1 goto.sms.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 count.vrs.sohu.com
@@ -8493,7 +8492,6 @@
 127.0.0.1 allwomenstalk.us.intellitxt.com
 127.0.0.1 allyesbjafa.allyes.com
 127.0.0.1 allyesshafa.allyes.com
-127.0.0.1 alogin.linksynergy.com
 127.0.0.1 alpha.bnex.com
 127.0.0.1 alpha.brand.sogou.com
 127.0.0.1 alphagirlz.mobi
@@ -16860,7 +16858,6 @@
 127.0.0.1 gorilla.go2cloud.org
 127.0.0.1 goshoppingonline.bfast.com
 127.0.0.1 goska.siol.net
-127.0.0.1 gosms.goforandroid.com
 127.0.0.1 gosmsdl.goforandroid.com
 127.0.0.1 gospycash.com
 127.0.0.1 gossipcenter.us.intellitxt.com
@@ -19547,11 +19544,6 @@
 127.0.0.1 logi9.xiti.com
 127.0.0.1 logic.cpm.cm.sandai.net
 127.0.0.1 logictest.cpm.cm.sandai.net
-127.0.0.1 login.adition.com
-127.0.0.1 login.affluentco.com
-127.0.0.1 login.campaignmonitor.com
-127.0.0.1 login.dotomi.com
-127.0.0.1 login.tracking101.com
 127.0.0.1 loginlog.sdo.com
 127.0.0.1 logiq.go2cloud.org
 127.0.0.1 loglady.publicbroadcasting.net
@@ -20700,7 +20692,6 @@
 127.0.0.1 mlbsanfrancisco.112.2o7.net
 127.0.0.1 mlinktracker.com
 127.0.0.1 mlno6.com
-127.0.0.1 mlogin.linksynergy.com
 127.0.0.1 mlook.mcdstorage.com
 127.0.0.1 mlsglobal.112.2o7.net
 127.0.0.1 mlt01.com
@@ -20817,7 +20808,6 @@
 127.0.0.1 mobiletest2.2cnt.net
 127.0.0.1 mobiletheory.com
 127.0.0.1 mobilewhack.us.intellitxt.com
-127.0.0.1 mobilewithsms.net
 127.0.0.1 mobilityguru.us.intellitxt.com
 127.0.0.1 mobilitysite.us.intellitxt.com
 127.0.0.1 mobisystems.com
@@ -25986,8 +25976,6 @@
 127.0.0.1 smpopmech.112.2o7.net
 127.0.0.1 smrtclick.com
 127.0.0.1 smrtpxl.advertising.com
-127.0.0.1 sms.otair.com
-127.0.0.1 sms18.in.com
 127.0.0.1 sms-ads.com
 127.0.0.1 sms-mmm.com
 127.0.0.1 smtp.ero-advertising.com
@@ -32614,7 +32602,6 @@
 127.0.0.1 www.ultimatelyreveal.com
 127.0.0.1 www.ultimatetopsites.com
 127.0.0.1 www.ultsearch.com
-127.0.0.1 www.umaxlogin.com
 127.0.0.1 www.um-per.com
 127.0.0.1 www.unadvertising.info
 127.0.0.1 www.undertonenetworks.com
@@ -33566,7 +33553,6 @@
 127.0.0.1 union.roboo.com
 127.0.0.1 123lm.com
 127.0.0.1 jixing.cc
-127.0.0.1 chinasms-b2b.com
 127.0.0.1 juzi007.com
 127.0.0.1 liaocpa.com
 127.0.0.1 vipads.cn
