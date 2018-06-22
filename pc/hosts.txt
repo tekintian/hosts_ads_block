@@ -7004,7 +7004,6 @@
 127.0.0.1 dl.vv01.info
 127.0.0.1 dl.vv03.info
 127.0.0.1 dl.youbak.com
-127.0.0.1 dl02.s3.amazonaws.com
 127.0.0.1 dl02.softdown-load.com.cn
 127.0.0.1 dl3.kanlela.com
 127.0.0.1 dl4.kanlela.com
@@ -12126,7 +12125,6 @@
 127.0.0.1 s20080829.cn
 127.0.0.1 s23.b387yh3uyh.3322.org
 127.0.0.1 s234.8866.org
-127.0.0.1 s3.amazonaws.com
 127.0.0.1 s3.bengbeng1.3322.org
 127.0.0.1 s32.5201821.info
 127.0.0.1 s3221sss3.cn
@@ -26037,7 +26035,6 @@
 127.0.0.1 108411.hittail.com
 127.0.0.1 108434.hittail.com
 127.0.0.1 10best.us.intellitxt.com
-127.0.0.1 10bet.s3.amazonaws.com
 127.0.0.1 10xhellometro.112.2o7.net
 127.0.0.1 11.ptp22.com
 127.0.0.1 11.rtstats.com
@@ -34112,7 +34109,6 @@
 127.0.0.1 britishtelecom.112.2o7.net
 127.0.0.1 britneyexperts.us.intellitxt.com
 127.0.0.1 brnys.netmng.com
-127.0.0.1 bro1.s3.amazonaws.com
 127.0.0.1 broadcaster.streamate.com
 127.0.0.1 broadjump.com
 127.0.0.1 broadspring.com
@@ -34144,8 +34140,6 @@
 127.0.0.1 btprmnav.com
 127.0.0.1 btr.domywife.com
 127.0.0.1 btr.sharethis.com
-
-127.0.0.1 btrpreroll.s3.amazonaws.com
 127.0.0.1 btsportandroid.2cnt.net
 127.0.0.1 btsportdotcom.2cnt.net
 127.0.0.1 btsportios.2cnt.net
@@ -34613,7 +34607,6 @@
 
 127.0.0.1 cacti.adsame.com
 127.0.0.1 cad.chosun.com
-127.0.0.1 cadreon.s3.amazonaws.com
 127.0.0.1 cadvv.heraldm.com
 127.0.0.1 cadvv.koreaherald.com
 127.0.0.1 caea4e.r.axf8.net
@@ -35231,7 +35224,6 @@
 127.0.0.1 cdn-i.dmdentertainment.com
 127.0.0.1 cdnk.interclick.com
 127.0.0.1 cdnm.zapunited.com
-127.0.0.1 cdnpuaf.s3.amazonaws.com
 127.0.0.1 cdns.amgdgt.com
 127.0.0.1 cdns.brsrvr.com
 127.0.0.1 cdn-static.liverail.com
@@ -35250,8 +35242,6 @@
 127.0.0.1 cdx.cedexis.com
 127.0.0.1 cdxninteractive.blueadvertise.com
 127.0.0.1 ce.lijit.com
-127.0.0.1 ce2-dev.s3.amazonaws.com
-127.0.0.1 ce2-dev-trk.s3.amazonaws.com
 127.0.0.1 cecash.com
 127.0.0.1 ced.sascdn.com
 127.0.0.1 cedexis.cdn.mediactive-network.net
@@ -35338,7 +35328,6 @@
 127.0.0.1 chapmanmediagroup.com
 127.0.0.1 chappel.videogamer.com
 127.0.0.1 chart.superstats.com
-127.0.0.1 chartaca.com.s3.amazonaws.com
 127.0.0.1 chartbeat.com
 127.0.0.1 chartbeat.download.akamai.com
 127.0.0.1 chartbeat.net
@@ -35597,7 +35586,6 @@
 127.0.0.1 click.revenuepilot.com
 127.0.0.1 click.rontraffic.com
 127.0.0.1 click.rssfwd.com
-127.0.0.1 click.s3.amazonaws.com
 127.0.0.1 click.scour.com
 127.0.0.1 click.searchnation.net
 127.0.0.1 click.sellmeyourtraffic.com
@@ -36413,7 +36401,6 @@
 127.0.0.1 conversionruler.com
 127.0.0.1 conversions.rts.doublepimp.com
 127.0.0.1 conversion-tracker.com
-127.0.0.1 convertglobal.s3.amazonaws.com
 127.0.0.1 convoad.technoratimedia.com.21929.9047.302br.net
 127.0.0.1 convoad.technoratimedia.com.22787.9068.302br.net
 127.0.0.1 convoad.technoratimedia.com.22788.9068.302br.net
