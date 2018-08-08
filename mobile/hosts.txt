@@ -167,6 +167,7 @@
 127.0.0.1 mipcache.bdstatic.com
 127.0.0.1 su.bdstatic.com
 #mob
+127.0.0.1 international.bayimob.com
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 btlaunch.baidu.com
 127.0.0.1 dxp.baidu.com
