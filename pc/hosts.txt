@@ -135,7 +135,9 @@
 0.0.0.0 win10.ipv6.microsoft.com 
 0.0.0.0 ca.telemetry.microsoft.com 
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net 
-
+#for browser
+127.0.0.1 favor.ie.sogou.com
+#for youku
 127.0.0.1 wa.kuwo.cn
 127.0.0.1 atm.youku.com
 127.0.0.1 vid.atm.youku.com
